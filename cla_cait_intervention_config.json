@@ -23,7 +23,7 @@
     }
   },
   "survey": {
-    "run": false,
+    "run": true,
     "urls": {
       "default": "https://www.surveymonkey.co.uk/r/S9DHNND",
       "a": "https://www.surveymonkey.co.uk/r/S9DHNND",
@@ -35,7 +35,7 @@
     "body": "We&rsquo;re designing a new service for people who need to make child arrangements. Can you spare 5 minutes to ##answer some questions##?"
   },
   "intervention": {
-    "run": false,
+    "run": true,
     "quota": 1,
     "quota_cycle": 2
   },

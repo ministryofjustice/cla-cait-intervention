@@ -46,5 +46,5 @@
       "public_description": "This guide contains information about your legal rights, where to get support and how to involve your children. It also explains the different ways you can reach an agreement."
     }
   },
-  "xcss": ".help-with-child-arrangements {\nbackground-color: rgba(0, 128, 255, 0.1)\n}\n.org-highlighted {\nbackground-color: rgba(255, 0, 0, 0.05)\n}"
+  "css": ""
 }

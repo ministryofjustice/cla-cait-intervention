@@ -23,7 +23,7 @@
     }
   },
   "survey": {
-    "run": false,
+    "run": true,
     "urls": {
       "default": "https://www.surveymonkey.co.uk/r/5GFKZQN",
       "a": "https://www.surveymonkey.co.uk/r/S9DHNND",

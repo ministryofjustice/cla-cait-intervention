@@ -34,13 +34,13 @@
     "body": "We&rsquo;re designing a new service for people who may need help with a family legal issue. Can you spare 5 minutes to ##answer some questions##?"
   },
   "intervention": {
-    "run": false,
+    "run": true,
     "quota": 1,
     "quota_cycle": 2
   },
   "links": {
     "cait": {
-      "website": "https://helpwithchildarrangements.service.justice.gov.uk",
+      "website": "https://moj-cait-2017-03-09.herokuapp.com",
       "service_name": "Get help with child arrangements",
       "public_description": "This service provides help for people who need to make child arrangements (also known as custody) but may be in dispute with the other parent."
     }

@@ -36,7 +36,7 @@
   "intervention": {
     "run": true,
     "quota": 1,
-    "quota_cycle": 2
+    "quota_cycle": 1
   },
   "links": {
     "cait": {

@@ -42,7 +42,7 @@
     "cait": {
       "website": "https://moj-cait-2017-03-09.herokuapp.com",
       "service_name": "Get help with child arrangements",
-      "public_description": "This service provides help for people who need to make child arrangements (also known as custody) but may be in dispute with the other parent."
+      "public_description": "This service provides information for people who need to make child arrangements (also known as custody) but may be in dispute with the other parent."
     }
   },
   "css": ""

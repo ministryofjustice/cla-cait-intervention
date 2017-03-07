@@ -34,7 +34,7 @@
     "body": "We&rsquo;re designing a new service for people who may need help with a family legal issue. Can you spare 5 minutes to ##answer some questions##?"
   },
   "intervention": {
-    "run": true,
+    "run": false,
     "quota": 1,
     "quota_cycle": 1
   },

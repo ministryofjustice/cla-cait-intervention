@@ -30,11 +30,11 @@
       "b": "https://www.surveymonkey.co.uk/r/5NMWPN3",
       "c": "https://www.surveymonkey.co.uk/r/538HDBS"
     },
-    "heading": "We would like your help",
+    "heading": "We need your help",
     "body": "We&rsquo;re designing a new service for people who may need help with a family legal issue. Can you spare 5 minutes to ##answer some questions##?"
   },
   "intervention": {
-    "run": false,
+    "run": true,
     "quota": 1,
     "quota_cycle": 1
   },

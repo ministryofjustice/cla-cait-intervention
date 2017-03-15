@@ -31,7 +31,8 @@
       "c": "https://www.surveymonkey.co.uk/r/538HDBS"
     },
     "heading": "We need your help",
-    "body": "We&rsquo;re designing a new service for people who may need help with a family legal issue. Can you spare 5 minutes to ##answer some questions##?"
+    "body": "We&rsquo;re designing a new service for people who may need help with a family legal issue. Can you spare 5 minutes to ##answer some questions##?",
+    "muddy": ""
   },
   "intervention": {
     "run": true,
@@ -42,7 +43,7 @@
     "cait": {
       "website": "https://moj-cait-2017-03-09.herokuapp.com",
       "service_name": "Get help with child arrangements",
-      "public_description": "This service provides information for people who need to make child arrangements (also known as custody) but may be in dispute with the other parent."
+      "public_description": "The Ministry of Justice is building a new service for people who need to make child arrangements (custody) but may be in dispute with the other parent.\n\nIf you&rsquo;re interested in using the new service we&rsquo;ll need to ask you a couple of questions to check if it’s suitable for you."
     }
   },
   "css": ""

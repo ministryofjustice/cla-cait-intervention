@@ -23,7 +23,7 @@
     }
   },
   "survey": {
-    "run": true,
+    "run": false,
     "urls": {
       "default": "https://www.surveymonkey.co.uk/r/5GFKZQN",
       "a": "https://www.surveymonkey.co.uk/r/S9DHNND",
@@ -31,19 +31,21 @@
       "c": "https://www.surveymonkey.co.uk/r/538HDBS"
     },
     "heading": "We need your help",
-    "body": "We&rsquo;re designing a new service for people who may need help with a family legal issue. Can you spare 5 minutes to ##answer some questions##?"
+    "body": "We&rsquo;re designing a new service for people who may need help with a family legal issue. Can you spare 5 minutes to ##answer some questions##?",
+    "muddy": ""
   },
   "intervention": {
-    "run": false,
+    "run": true,
     "quota": 1,
-    "quota_cycle": 2
+    "quota_cycle": 1
   },
   "links": {
     "cait": {
-      "website": "https://helpwithchildarrangements.service.justice.gov.uk",
+      "website": "https://www.surveymonkey.co.uk/r/N5XTNF2",
       "service_name": "Get help with child arrangements",
-      "public_description": "This service provides help for people who need to make child arrangements (also known as custody) but may be in dispute with the other parent."
+      "public_description": "The Ministry of Justice is building a new service for people who need to make child arrangements (custody) but may be in dispute with the other parent.\n\nIf you&rsquo;re interested in using the new service we&rsquo;ll need to ask you a couple of questions to check if it’s suitable for you."
     }
   },
-  "css": ""
+  "css": "",
+  "js": "  jQuery('.get-help-with-child-arrangements a').each(function(){\n    var hrefAddition = '?uuid=' + uuid + '&nodes=' + nodes + '&last_node=' + last_node\n    this.href += hrefAddition\n  })"
 }

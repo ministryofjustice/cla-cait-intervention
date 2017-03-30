@@ -23,7 +23,7 @@
     }
   },
   "survey": {
-    "run": true,
+    "run": false,
     "urls": {
       "default": "https://www.surveymonkey.co.uk/r/5GFKZQN",
       "a": "https://www.surveymonkey.co.uk/r/S9DHNND",
@@ -35,7 +35,7 @@
     "muddy": ""
   },
   "intervention": {
-    "run": false,
+    "run": true,
     "quota": 1,
     "quota_cycle": 1
   },

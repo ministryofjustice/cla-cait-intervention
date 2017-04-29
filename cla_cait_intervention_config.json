@@ -35,7 +35,7 @@
     "muddy": ""
   },
   "intervention": {
-    "run": false,
+    "run": true,
     "quota": 1,
     "quota_cycle": 1
   },

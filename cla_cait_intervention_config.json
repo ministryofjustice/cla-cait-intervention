@@ -47,5 +47,5 @@
     }
   },
   "css": "",
-  "js": "  jQuery('.get-help-with-child-arrangements a').each(function(){\n    var hrefAddition = '?uuid=' + uuid + '&referrer=' + document.location.href + '&nodes=' + nodes + '&last_node=' + last_node\n    if (document.location.hostname.indexOf('checklegalaid') === -1) { this.href = this.href.replace(/helpwithchildarrangements.service.justice.gov.uk/, 'staging-public.cait.dsd.io') }\n    this.href += hrefAddition\n  })"
+  "js": "  jQuery('.get-help-with-child-arrangements a').each(function(){\n    var hrefAddition = '?uuid=' + uuid + '&referrer=' + document.location.href\n    if (document.location.hostname.indexOf('checklegalaid') === -1) { this.href = this.href.replace(/helpwithchildarrangements.service.justice.gov.uk/, 'staging-public.cait.dsd.io') }\n    this.href += hrefAddition\n  })"
 }
